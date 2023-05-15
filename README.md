@@ -1,1 +1,1 @@
-# Draft21-term-project
+Hello! Welcome to my repository for my Draft21 term project. For my project, I chose to reverse engineer a motorcycle lift stand. Within this repository you will find all of the model and assembly files, as well as the CAD drawings related to each. Thanks for looking!
